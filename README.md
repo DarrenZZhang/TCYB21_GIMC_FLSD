@@ -1,6 +1,6 @@
 # GRMF-TCYB
 
-# Multi-view Clustering with Flexible Locality Structure Diffusion (GIMC FLSD)
+# Multi-view Clustering with Flexible Locality Structure Diffusion (GIMC_FLSD)
 This is a very simple implementation of our paper:
 
 Jie Wen, Zheng Zhang, Zhao Zhang, Lunke Fei, Meng Wang, Generalized Incomplete Multi-view Clustering With Flexible Locality Structure Diffusion[J], IEEE Transactions on Cybenetics, doi: 10.1109/TCYB.2020.2987164, 2020.
