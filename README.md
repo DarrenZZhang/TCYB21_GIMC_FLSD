@@ -1,5 +1,5 @@
-# Multi-view Clustering with Flexible Locality Structure Diffusion (GIMC_FLSD)
-This is an example implementation of our paper:
+# Generalized Incomplete Multi-view Clustering with Flexible Locality Structure Diffusion (GIMC_FLSD)
+This is an example implementation of [our paper](https://ieeexplore.ieee.org/document/9089264):
 
 Jie Wen, Zheng Zhang, Zhao Zhang, Lunke Fei, Meng Wang, Generalized Incomplete Multi-view Clustering With Flexible Locality Structure Diffusion, IEEE Transactions on Cybenetics, doi: 10.1109/TCYB.2020.2987164, 2020.
 
